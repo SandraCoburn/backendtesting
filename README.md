@@ -1,7 +1,7 @@
 # backendtesting
 # workflow
 
-- create a reoisutiry and clone it
+- create a repositroy and clone it
 - add .gitignore
 - add package.json
 - update test script to use jest
